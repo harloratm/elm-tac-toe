@@ -1,0 +1,13 @@
+<svg>
+  <defs>
+    <symbol id="X">
+    </symbol>
+    <symbol id="O">
+        <g transform="translate(0,-284.30001)">
+            <path
+               transform="matrix(0.26458333,0,0,0.26458333,0,284.30001)"
+               d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 1 A 23 23 0 0 1 47 24 A 23 23 0 0 1 24 47 A 23 23 0 0 1 1 24 A 23 23 0 0 1 24 1 z " />
+       </g>
+    </symbol>
+  </defs>
+</svg>
