@@ -1,4 +1,6 @@
-# Elm App
+# Elm Tac Toe
+
+You can try the Tic Tac Toe at: https://2pxsolidblack.gitlab.io/elm-tac-toe/
 
 This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).
 
