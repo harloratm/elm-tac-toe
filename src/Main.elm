@@ -219,10 +219,10 @@ renderGameResult : Model -> Html Msg
 renderGameResult model =
     case model.result of
         XWin ->
-            renderGameOver "Player X win the game!"
+            renderGameOver "Player X wins the game!"
 
         OWin ->
-            renderGameOver "Player O win the game!"
+            renderGameOver "Player O wins the game!"
 
         Draw ->
             renderGameOver "It's a draw."
